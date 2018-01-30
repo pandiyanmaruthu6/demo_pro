@@ -1,3 +1,3 @@
 <?php
-echo "This is the line conflict in git";
+echo "we are changing the same line from branch to conflict";
 ?>
