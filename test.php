@@ -1,3 +1,3 @@
 <?php
-echo "This is php code";
+echo "This is the line conflict in git";
 ?>
