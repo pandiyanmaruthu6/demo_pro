@@ -1,3 +1,3 @@
 <?php
-echo "This is php code";
+echo "Conflict update from master";
 ?>
